@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-screen w-full">
         <Image
-          src="https://images.pexels.com/photos/2845013/pexels-photo-2845013.jpeg"
+          src="https://images.pexels.com/photos/8112201/pexels-photo-8112201.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
           alt="City skyline"
           fill
           priority
